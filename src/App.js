@@ -28,7 +28,7 @@ class App extends Component {
       <div className='App'>
         <Route path="/post/:id" render={({ match }) => (
           <FullPostPage
-            post={posts[match.params.id]}
+            post={posts[(match.params.id - 1)]}
           />
         )} />
         <Route exact path="/:page?" render={({ match }) => (
