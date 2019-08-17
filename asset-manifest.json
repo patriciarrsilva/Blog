@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Blog/static/css/main.847f000c.chunk.css",
+    "main.js": "/Blog/static/js/main.061e3dfc.chunk.js",
+    "main.js.map": "/Blog/static/js/main.061e3dfc.chunk.js.map",
+    "runtime~main.js": "/Blog/static/js/runtime~main.1b68dcfb.js",
+    "runtime~main.js.map": "/Blog/static/js/runtime~main.1b68dcfb.js.map",
+    "static/js/2.6274e303.chunk.js": "/Blog/static/js/2.6274e303.chunk.js",
+    "static/js/2.6274e303.chunk.js.map": "/Blog/static/js/2.6274e303.chunk.js.map",
+    "index.html": "/Blog/index.html",
+    "precache-manifest.05afc5420bd1f18c7745188e34e275a3.js": "/Blog/precache-manifest.05afc5420bd1f18c7745188e34e275a3.js",
+    "service-worker.js": "/Blog/service-worker.js",
+    "static/css/main.847f000c.chunk.css.map": "/Blog/static/css/main.847f000c.chunk.css.map",
+    "static/media/index.css": "/Blog/static/media/cancel.32cee437.svg"
+  }
+}
