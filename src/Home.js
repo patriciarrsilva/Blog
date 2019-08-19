@@ -20,9 +20,9 @@ class Home extends Component {
             <div className="home">
                 <h1 className="title title-blog">Blog</h1>
                 {posts.map((post, i) => <Post key={i} postId={post.id} postTitle={post.title} postBody={post.body} />)}
-                <ol>
+                <ol className="page-list">
                     {pages.map((page, i) =>
-                        <li key={i}><Link to={`/${page}`}>{page + 1}</Link></li>
+                        <li key={i} className="page-number"><Link to={`/${page}`}>{page + 1}</Link></li>
                     )}
                 </ol>
             </div>

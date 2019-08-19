@@ -131,6 +131,22 @@ body,
   padding: 20px;
 }
 
+.page-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+
+.page-number {
+  padding: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
 .title {
   margin: 0;
 }
