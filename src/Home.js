@@ -16,8 +16,6 @@ class Home extends Component {
         const { posts } = this.props
         const { pages } = this.state
 
-        //this.props.postsToSkip = this.props.routeProps.params.page * 10;
-
         return (
             <div className="home">
                 <h1 className="title title-blog">Blog</h1>
